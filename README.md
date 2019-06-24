@@ -1,4 +1,4 @@
-# Haal-Centraal-BGT-bevragen
+# Haal-Centraal-BAG-bevragen
 
 
 ## Introductie
@@ -22,9 +22,9 @@ In principe willen we voor iedere activiteit op een lokale kopie een Haal Centra
 ## Context
 Haal Centraal is een G5 initiatief (Amsterdam, Rotterdam, Den Haag, Utrecht en Eindhoven). Het concept is getoetst in de BRK pilot van de gemeente Den Haag met het Kadaster op basis van de RSGB bevragingen standaard (voorloper BRP- en BRK-bevragen). De businesscase is gebaseerd op ervaringscijfers van de gemeente Den Haag en de softwareontwikkeling gedurende de pilot. 
 
-## BGT bevragen
+## BAG bevragen
 Deze repository beschrijft het project om tot een API voor de Basisregistratie Grootschalige Topografie (BGT) te komen.
 
 ## Licentie
 Copyright (C) VNG Realisatie 2018
-Licensed under the [EUPL](https://github.com/VNG-Realisatie/Haal-Centraal-BAG-bevragen/blob/master/LICENCE.md)
+Licensed under the [EUPL](https://github.com/VNG-Realisatie/Haal-Centraal-BGT-bevragen/blob/master/LICENCE.md)
