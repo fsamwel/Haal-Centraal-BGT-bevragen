@@ -1,4 +1,4 @@
-# Haal-Centraal-BGT-bevragen
+# Haal Centraal BGT bevragen
 
 
 ## Introductie
