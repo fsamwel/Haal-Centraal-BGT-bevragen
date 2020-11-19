@@ -1,0 +1,3 @@
+baseurl: "/Haal-Centraal-BGT-bevragen"
+apiname: "BGT Bevragen"
+url: "http://localhost:4000"
