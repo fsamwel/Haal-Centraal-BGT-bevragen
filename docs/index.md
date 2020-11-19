@@ -1,3 +1,7 @@
+---
+layout: page-with-side-nav
+title: Haal Centraal BGT bevragen
+---
 # Haal Centraal BGT bevragen
 
 ## Introductie
